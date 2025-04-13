@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on [an Event Management System](https://github.com/Rokari-19/Event-Management-System)
 
-- 🌱 I’m currently learning **RestAPI, REST Framework Django**
+- 🌱 I’m currently learning **AWS, GitHub Actions, DevOps**
 
-- 💬 Ask me about **Vue.js, Django, Python, Java**
+- 💬 Ask me about **Vue.js, Django, Python, Amazon Web Services**
 
 - 📫 How to reach me **oshomahiyelobu1@gmail.com**
-
-- ⚡ Fun fact **I think i'm a good front-end dev, but i'm just backend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
