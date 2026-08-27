@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/rokari_aj" target="blank"><img src="https://img.shields.io/twitter/follow/rokari_aj?logo=twitter&style=for-the-badge" alt="rokari_aj" /></a> </p>
 
-- 🔭 I’m currently working on [an Event Management System](https://github.com/Rokari-19/Event-Management-System)
+- 🔭 I’m currently working on [HealthWaka](https://github.com/Rokari-19/health-news-app-backend/)
 
-- 🌱 I’m currently learning **AWS, GitHub Actions, DevOps**
+- 🌱 I’m currently learning **Docker, Database migrations (ETL), AWS, Flutter**
 
-- 💬 Ask me about **Vue.js, Django, Python, Amazon Web Services**
+- 💬 Ask me about **Vue.js, Django, Python, Cloud Services, Flutter, ETL pipelines**
 
 - 📫 How to reach me **oshomahiyelobu1@gmail.com**
 
